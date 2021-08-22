@@ -1,5 +1,8 @@
 ﻿  Function.cpp
 c:\users\user\source\vs source\snake\snake\function.cpp(193): warning C4018: '<': signed/unsigned mismatch
 c:\users\user\source\vs source\snake\snake\function.cpp(224): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\user\source\vs source\snake\snake\main.cpp(35): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
 c:\users\user\source\vs source\snake\snake\function.cpp(331): warning C4715: 'Getspeed': not all control paths return a value
   Snake.vcxproj -> C:\Users\User\source\VS Source\Snake\Debug\Snake.exe

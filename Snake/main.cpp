@@ -13,7 +13,7 @@ int main()
 	vector<point> body;
 	unsigned long times;
 	srand((unsigned int)time(NULL));
-	//Hide_Cursor();
+	Hide_Cursor();
 	//Correct_color();
 	//SetConsoleSize(100, 250);
 	initial(direct, body, score, level);
